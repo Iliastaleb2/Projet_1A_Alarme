@@ -7,15 +7,15 @@ Avec mon partenaire, notre rôle était de gérer la sortie, c’est-à-dire le 
 
 Pour cela, nous avons principalement utilisé :
 
-Un VCO (XR2206 pour générer le signal et basculer entre bi-ton et progressif)
+- Un VCO (XR2206 pour générer le signal et basculer entre bi-ton et progressif)
 
-Des transistors (NPN 2N1711 et PNP 2N2905 pour amplifier le signal)
+- Des transistors (NPN 2N1711 et PNP 2N2905 pour amplifier le signal)
 
-Un convertisseur IA1215S DC-DC (12 V vers 15 V pour alimenter le circuit audio)
+- Un convertisseur IA1215S DC-DC (12 V vers 15 V pour alimenter le circuit audio)
 
-Un ampli-op TL082 (pour intégrer et inverser le signal)
+- Un ampli-op TL082 (pour intégrer et inverser le signal)
 
-Un haut-parleur KSSG1708
+- Un haut-parleur KSSG1708
 
 ## Schématique : 
 <img width="1215" height="832" alt="image" src="https://github.com/user-attachments/assets/3ad432f5-4893-4842-aa66-c62201c0f591" />
