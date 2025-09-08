@@ -23,7 +23,7 @@ Un haut-parleur KSSG1708
 ## Bottom :
 
 
-<img width="527.8" height="511.55" alt="image" src="https://github.com/user-attachments/assets/bc5b6d14-19f6-438b-a74a-e80c789dcee5" />
+<img width="523.9" height="512.85" alt="image" src="https://github.com/user-attachments/assets/bc5b6d14-19f6-438b-a74a-e80c789dcee5" />
 <img width="480" height="640" alt="image" src="https://github.com/user-attachments/assets/4e9ed21e-c2e1-413c-a023-2db3975203e7" />
 
 ## Top :
