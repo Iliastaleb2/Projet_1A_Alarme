@@ -1,6 +1,6 @@
 # Description
 
-Plus précisément, lorsque le faisceau LASER est interrompu, une alarme à deux tons ou à progression sinusoïdale (ajustable via un cavalier) est déclenchée.
+Plus précisément, lorsque le faisceau LASER est interrompu, une alarme à  bi-tons ou à sinusoïdalement progressive (ajustable via un cavalier) est déclenchée.
 Pour arrêter l’alarme, différents codes doivent être saisis, avec un « supercode » permettant malgré tout de stopper l’alarme en cas d’erreur de saisie des codes.
 
 Avec mon partenaire, notre rôle était de gérer la sortie, c’est-à-dire le signal sonore et la variation de fréquence à partir d’un signal carré transmis par le microcontrôleur STM32L476RG entre 0 et 3,3 V.
@@ -13,7 +13,7 @@ Pour cela, nous avons principalement utilisé :
 
 - Un convertisseur IA1215S DC-DC (12 V vers 15 V pour alimenter le circuit audio)
 
-- Un ampli-op TL082 (pour intégrer et inverser le signal)
+- Un AOP TL082 (pour intégrer et inverser le signal)
 
 - Un haut-parleur KSSG1708
 
